@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Kitty
+GenericName=Terminal emulator
+Comment=Fast, feature-rich, GPU-based terminal emulator
+TryExec=/home/jielin/.local/kitty.app/bin/kitty
+Exec=/home/jielin/.local/kitty.app/bin/kitty
+Icon=/home/jielin/.local/kitty.app/share/icons/hicolor/256x256/apps/kitty.png
+Categories=System;TerminalEmulator;
+Terminal=false
+StartupWMClass=kitty
+
